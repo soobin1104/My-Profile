@@ -3,7 +3,7 @@ import styles from './style.module.scss';
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 
-const words = ['Hello', 'Bonjour', 'Ciao', 'Olà', 'やあ', 'Hallå', 'Guten tag', 'Hallo'];
+const words = ['你好', 'Hello', 'Bonjour', 'Ciao', 'Olà', 'やあ', 'Hallå', 'Guten tag', '你好'];
 const opacity = {
   initial: {
     opacity: 0,
