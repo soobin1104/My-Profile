@@ -21,7 +21,7 @@ export default function Home() {
   // }, []);
 
   return (
-    <div className="flex flex-col h-full px-4 lg:flex-row sm:px-8 md:px-12 lg:px-20 xl:px-48">
+    <div className="flex flex-col h-full gap-4 px-4 lg:flex-row sm:px-8 md:px-12 lg:px-20 xl:px-48">
       {/* <AnimatePresence mode="wait">{isLoading && <Preloader />}</AnimatePresence> */}
 
       {/* IMAGE CONTAINER */}
