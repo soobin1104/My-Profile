@@ -91,7 +91,7 @@ const Navbar = () => {
 
       {/* Social Media */}
       <div className="hidden w-1/3 gap-4 md:flex">
-        <Link href="/">
+        <Link href="https://github.com/soobin1104">
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
         <Link href="/">
